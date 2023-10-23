@@ -28,7 +28,7 @@ Welcome to my GitHub repository! Here you'll find a collection of projects, note
    - Create README.md
    - Uploaded 3 months ago
 
-### 7. **Spaceship Titanic - Validation, EDA & Prediction .ipynb**
+### 7. **Spaceship Titanic - Validation, EDA & Prediction.ipynb**
    - Added files via upload
    - Uploaded 3 months ago
 
@@ -40,16 +40,16 @@ Welcome to my GitHub repository! Here you'll find a collection of projects, note
    - Added files via upload
    - Uploaded 3 months ago
 
-### 10. **goalzone-predicting-attendance-for-each-gym-class.ipynb**
-    - Added files via upload
-    - Uploaded 3 months ago
+### 10. **Goalzone: Predicting Attendance for Each Gym Class.ipynb**
+   - Added files via upload
+   - Uploaded 3 months ago
 
-### 11. **pens-and-printers-sales-analysis.ipynb**
-    - Added files via upload
-    - Uploaded 3 months ago
+### 11. **Pens and Printers Sales Analysis.ipynb**
+   - Added files via upload
+   - Uploaded 3 months ago
 
-### 12. **the-salifort-motors-project.ipynb**
-    - Using XGBRFClassifier + Model Tuning
+### 12. **The Salifort Motors Project.ipynb**
+   - Using XGBRFClassifier + Model Tuning
 
 Feel free to browse through these projects, view the notebooks, and explore the analyses and insights provided. If you have any questions or suggestions, don't hesitate to reach out.
 
